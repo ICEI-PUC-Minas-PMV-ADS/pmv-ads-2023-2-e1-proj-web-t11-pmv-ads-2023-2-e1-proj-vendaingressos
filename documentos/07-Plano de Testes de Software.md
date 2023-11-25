@@ -14,7 +14,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-01 - Verificar o funcionamento dos links da página Home |
 |:---|:---|
-| Requisitos Associados | RF-01; RF-02; RF-03 e RF-04 |
+| Requisitos Associados | RF-01; RF-02; RF-03; RF-04 e RF-08 |
 | Objetivo do Teste | Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente |
 | Passos | 1. Acessar o navegador; 2. Informar o endereço do site; 3. Visualizar a página Home; 4. Clicar nos links da página Home |
 | Critérios de êxito | Todos os links da página Home devem encaminhar os usuários para as páginas descritas  |
