@@ -52,5 +52,23 @@ Foram acessadas as sguintes telas, respectivamente: eventos abertos, eventos pas
 
 <img width="1280" alt="Screen Shot 2023-11-25 at 11 33 07 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/1e94138c-3f8a-446a-96c1-f7f07af569f1">
 
+|Caso de Teste    | CT-04: Verificar o cadastro de usuários|
+|:---|:---|
+| Resultados obtidos |A página está permitindo cadastrar o usuário e após o seu cadastramento o clinete é redirecionado para a página de login. Após efetuado o login, o usuário é redirecionado para a página principal|
+| Responsável pela execução do caso de Teste | Daniel |
+
+<img width="1280" alt="Screen Shot 2023-11-25 at 11 35 42 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a6c9826a-a1cf-41e6-bc8d-6fcf75e263f8">
+
+<img width="1280" alt="Screen Shot 2023-11-25 at 11 36 00 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/e310633b-454c-4a2e-9fcb-fc739ea37e52">
+
+|Caso de Teste    | CT-05: Verificar o login de usuários|
+|:---|:---|
+| Resultados obtidos |Após efetuado o login, o usuário é redirecionado corretamente para a página principal|
+| Responsável pela execução do caso de Teste | Daniel |
+
+<img width="1280" alt="Screen Shot 2023-11-25 at 11 41 03 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/c60eb98e-4dc0-4822-8803-d3486164f15a">
+
+<img width="1280" alt="Screen Shot 2023-11-25 at 11 41 15 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/bb39219e-de70-4365-8aa0-044234883576">
+
 
 
