@@ -43,3 +43,14 @@ Foram acessadas as sguintes telas, respectivamente: eventos abertos, eventos pas
 
 <img width="1255" alt="Screen Shot 2023-11-25 at 11 12 15 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/d5148bf3-6768-479b-b554-210d45617ee2">
 
+|Caso de Teste    | CT-03: Verificar detalhes dos eventos |
+|:---|:---|
+| Resultados obtidos |A página que trata da descrição detalhada do evento funcionou corretamente|
+| Responsável pela execução do caso de Teste | Daniel |
+
+<img width="1280" alt="Screen Shot 2023-11-25 at 11 32 45 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/7100c07d-77ef-43dd-b8ac-06ad906ec08d">
+
+<img width="1280" alt="Screen Shot 2023-11-25 at 11 33 07 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/1e94138c-3f8a-446a-96c1-f7f07af569f1">
+
+
+
