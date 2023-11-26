@@ -70,5 +70,7 @@ Foram acessadas as sguintes telas, respectivamente: eventos abertos, eventos pas
 
 <img width="1280" alt="Screen Shot 2023-11-25 at 11 41 15 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/bb39219e-de70-4365-8aa0-044234883576">
 
+Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado. Para as próximas iterações, serão novamente testados os requisitos de login.
+
 
 
