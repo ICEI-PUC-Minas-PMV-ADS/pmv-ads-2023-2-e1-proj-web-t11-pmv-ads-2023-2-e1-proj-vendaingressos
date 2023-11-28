@@ -36,10 +36,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | [http://....](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos)                           |
-| Documentos do projeto               | Google Drive                             |[http://....](https://drive.google.com/drive/folders/1WmcM98Lz9N-tKDSkuthcorr8lS1sfzvI)                            |
-| Projeto de Interface                | Canva                              | [[http://....](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ)            |
-| Gerenciamento do Projeto            | Gerenciamento do Projeto                    | [http://....] (https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700)                          |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos|
+| Documentos do projeto               | Google Drive                       |https://drive.google.com/drive/folders/1WmcM98Lz9N-tKDSkuthcorr8lS1sfzvI|
+| Projeto de Interface                | Canva                              |https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ |
+| Gerenciamento do Projeto            | Gerenciamento do Projeto           |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700|
 
 Destaca-se que o quadro Kanban do grupo foi desenvolvido na ferramenta de gerenciamento de projetos do GitHub está disponível em https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700  e é apresentado, no estado atual, na Figura 1. 
 
