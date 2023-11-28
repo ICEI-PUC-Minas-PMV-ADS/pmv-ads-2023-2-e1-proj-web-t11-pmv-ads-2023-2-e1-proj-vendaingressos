@@ -35,7 +35,7 @@ Este projeto tem como objetivo o desenvolvimento de um portal especializado em e
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique [[aqui](https://tecfusion.netlify.app/home_page/home)] para acessá-lo.
 
 # Código-Fonte
 
