@@ -12,13 +12,16 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 Foram acessadas as sguintes telas, respectivamente: eventos abertos, eventos passados, cadastro de clientes e eventos, conforme imagens abaixo.
 
-<img width="1076" alt="Screen Shot 2023-11-25 at 10 21 49 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/de29c04b-9f04-4db3-92e9-7cb6974bfeb0">
+![Capturar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/ce4a5387-76fe-4ea0-b9c9-5cab94a6c5e7)
 
 <img width="1075" alt="Screen Shot 2023-11-25 at 10 22 43 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/74646c2c-cf1a-4b33-ab03-d3e73be00fa1">
 
 <img width="1076" alt="Screen Shot 2023-11-25 at 10 23 07 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/b7c0a612-6aec-49d8-9e21-d980630fc7fc">
 
 <img width="1077" alt="Screen Shot 2023-11-25 at 10 23 31 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/c56e88c0-81ca-42b3-a944-c053fd1d82e0">
+
+![CRUD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/1c7bbb0a-704b-4136-8344-77700819904c)
+
 
 <img width="1081" alt="Screen Shot 2023-11-25 at 10 23 59 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/d4d13728-1756-4c8b-a8df-8b917222e78b">
 
@@ -62,9 +65,19 @@ Foram acessadas as sguintes telas, respectivamente: eventos abertos, eventos pas
 
 <img width="1280" alt="Screen Shot 2023-11-25 at 11 41 03 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/c60eb98e-4dc0-4822-8803-d3486164f15a">
 
-<img width="1280" alt="Screen Shot 2023-11-25 at 11 41 15 AM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/bb39219e-de70-4365-8aa0-044234883576">
+![Capturar](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/a2a97520-3a34-4110-9337-d502c34a2b09)
+
+
+|Caso de Teste    | CT-06: Verificar o cadastro de empresas|
+|:---|:---|
+| Resultados obtidos |Após acessar a página "Cadastro de Empresas", o usuário apresenta a senha de administrador e pode efetuar operações CRUD e pesquisar as empresas cadastradas|
+| Responsável pela execução do caso de Teste | Daniel |
+
+![senha crud](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/9a3013c9-f16b-47c2-ba21-401f90e97030)
+
+![CRUD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/2025c866-2018-49d1-8754-cee031ceefd8)
+
+![listagem empresas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/fbb89c96-f50d-45c4-a6e6-72417b7b6097)
+
 
 Os testes de software mostraram que os requisitos priorizados foram atendidos, funcionando como planejado. Para as próximas iterações, serão novamente testados os requisitos de login.
-
-
-
