@@ -298,6 +298,37 @@
             exibeContatos();
         }
     </script>
+
+<script>
+    // Simulação de um usuário administrador
+    const usuarioAdministrador = {
+        nome: 'admin',
+        senha: 'admin123'
+    };
+
+    // Função para verificar a autorização do usuário
+    function verificarAutorizacao() {
+        // Simulação: Pedir ao usuário para inserir a senha
+        const senhaInserida = prompt('Administrador, digite sua senha:');
+
+        // Simulação: Verificar se a senha corresponde à senha do administrador
+        if (senhaInserida === usuarioAdministrador.senha) {
+            console.log('Acesso permitido!');
+            // Torna o corpo da página visível
+            document.body.style.display = 'block';
+        } else {
+            console.log('Acesso negado!');
+            // Coloque o código aqui para negar o acesso à página
+            alert('Acesso negado! A página será recarregada.');
+            // Recarrega a página (pode ser implementado de maneira mais elegante)
+            window.location.reload();
+        }
+    }
+
+    // Chame a função ao carregar a página
+    verificarAutorizacao();
+</script>
+
 </body>
 
 </html>

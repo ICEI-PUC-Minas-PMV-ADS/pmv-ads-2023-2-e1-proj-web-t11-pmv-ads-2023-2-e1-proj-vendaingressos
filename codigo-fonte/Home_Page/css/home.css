@@ -11,18 +11,20 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1600px;
+    max-width: 99%;
     margin: 0 auto;
     background-color: #370466;
-    padding: 10px;
+    padding: 1%;
 }
 
 .logo {
-    font-size: 30px;
+    font-family: 'Gistesy', sans-serif;                                
+    font-size: 40px;
     color: #fff;
 }
 
 .navbar {
+    font-size: 20px
     margin-right: 30px;
 }
 
@@ -41,7 +43,6 @@ header {
     text-decoration: none;
     color: #fff;
 }
-
 
 @media screen and (max-width: 768px) {
     header {
@@ -64,9 +65,9 @@ header {
 
 /* imagem principal */
 .image-section {
-    max-width: 1500px;
+    max-width: 99%;
     margin: 0 auto;
-    padding: 20px; 
+    padding: 1%; 
 }
 
 .image-section img {
@@ -77,16 +78,16 @@ header {
 
 /* Secao-de-imagens */
 .secao-de-imagens {
-    max-width: 1500px;
+    max-width: 99%;
+    padding: 1%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
-    gap: 50px; 
+    gap: 2%; 
 }
 
 .imagem-container {
     text-align: center;
-    padding: 10px;
     background-color: #370466;
 }
 
