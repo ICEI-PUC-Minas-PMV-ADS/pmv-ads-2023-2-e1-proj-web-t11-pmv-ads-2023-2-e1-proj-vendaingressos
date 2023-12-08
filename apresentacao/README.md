@@ -11,8 +11,6 @@ A apresentação do projeto consiste na geração de um conjunto de slides em um
 > - [Tec Fusion.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/files/13607950/Tec.Fusion.pdf)
 
 
-[Adicione pdf de apresentação.]
-
 ## Vídeo de apresentação
 
 A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a apresentação da solução. Vocês deverão abrir a aplicação hospedada e apresentar o seu funcionamento.  Poderão ser utilizados quaisquer recursos na montagem do vídeo, mas não se esqueçam de mostrar as funcionalidades da aplicação. Seguem as especificações técnicas que devem ser obedecidas na geração do vídeo:
