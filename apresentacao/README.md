@@ -5,11 +5,7 @@
 
 ## Vídeo de apresentação
 
-Primeira parte do video de apresentação.
-<video src="Tec%20Fusion%201.mp4" controls title="Title"></video>
-
-Segunda parte dp video de apresentação.
-<video src="Tec%20Fusion%202.mp4" controls title="Title"></video>
+<video src="Tec%20Fusion%20(2).mp4" controls title="Video de apresentação"></video>
 
 ## Hospedagem
 
