@@ -36,12 +36,12 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos|
-| Documentos do projeto               | Google Drive                       |https://drive.google.com/drive/folders/1WmcM98Lz9N-tKDSkuthcorr8lS1sfzvI|
-| Projeto de Interface                | Canva                              |https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ |
-| Gerenciamento do Projeto            | Gerenciamento do Projeto           |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700|
+| Repositório de código fonte         | GitHub                             | [Link GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos)|
+| Documentos do projeto               | Google Drive                       |[Link Google Drive](https://drive.google.com/drive/folders/1WmcM98Lz9N-tKDSkuthcorr8lS1sfzvI)|
+| Projeto de Interface                | Canva                              |[Link Canva](https://www.canva.com/design/DAFvpdPBxhQ/JeevDX0kVXUPg3VAS8-O0g/edit?locale=en&ui=eyJBIjp7IkUiOnsiQSI6dHJ1ZX19fQ)|
+| Gerenciamento do Projeto            | Gerenciamento do Projeto           |[Link Gerenciamento do Projeto](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700)|
 
-Destaca-se que o quadro Kanban do grupo foi desenvolvido na ferramenta de gerenciamento de projetos do GitHub está disponível em https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700  e é apresentado, no estado atual, na Figura 1. 
+Destaca-se que o quadro Kanban do grupo foi desenvolvido na ferramenta de gerenciamento de projetos do GitHub, disponível [aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/700), e é apresentado, no estado atual, na Figura 1. 
 
 <img width="1156" alt="Screen Shot 2023-09-29 at 6 41 12 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/assets/145787867/4a42bed8-ca14-46a4-a4e1-26cdddf3902a">
 Figura 1 – Kanban Board
