@@ -1,6 +1,6 @@
 # Apresentação do Projeto
 
-[Tec Fusion.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/files/13638640/Tec.Fusion.pdf)
+[Tec Fusion_pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t11-pmv-ads-2023-2-e1-proj-vendaingressos/files/13638640/Tec.Fusion.pdf)
 
 
 
