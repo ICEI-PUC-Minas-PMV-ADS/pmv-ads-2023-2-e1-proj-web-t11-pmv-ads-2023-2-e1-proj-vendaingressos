@@ -12,7 +12,7 @@ Este projeto tem como objetivo o desenvolvimento de um portal especializado em e
 
 * Daniel Müller Armond
 * Bernardo Alves Sirqueira
-* Rodrigo Vieira Alves de Lima
+* Rodrigo Vieira
 * Nilmar Antonio da Silva
 
 ## Orientador
